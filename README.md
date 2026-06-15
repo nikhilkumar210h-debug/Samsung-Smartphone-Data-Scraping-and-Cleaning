@@ -66,13 +66,13 @@ requirements.txt
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/nikhilkumar210h-debug/samsung-smartphone-data-scraping.git
+git clone https://github.com/nikhilkumar210h-debug/Samsung-Smartphone-Data-Scraping-and-Cleaning.git
 ```
 
 ### 2. Navigate to the Project Directory
 
 ```bash
-cd samsung-smartphone-data-scraping
+cd samsung_scraping_and_cleaning
 ```
 
 ### 3. Create a Virtual Environment (Optional)
